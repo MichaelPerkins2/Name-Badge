@@ -1,0 +1,43 @@
+html {
+    background: azure;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+section {
+    width: 30vw;
+    height: 30vh;
+    align-content: center;
+    background: darkred;
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+
+}
+nav {
+    width: 30vw;
+    height:16vh;
+    background: white;
+    color: black;
+    font-size: large;
+    justify-content: center;
+    align-content: center;
+
+}
+input {
+    height: 5vh;
+    width: 25vw;
+    margin: 30px;
+}
+div {
+    align-content: center;
+}
+h1 {
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 15px;
+
+}
